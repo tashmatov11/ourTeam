@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Shattyk greets!");
         System.out.println("эмне жакпады");
         System.out.println("Kutubek brench");
+
     }
 }
