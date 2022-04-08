@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Kutubek brench");
         System.out.println("talgarbek yryskul uulu ");
         System.out.println("this is my method ");
+        System.out.println("Bektur, how are you?");
     }
 }
