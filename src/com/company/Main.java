@@ -7,5 +7,6 @@ public class Main {
         System.out.println("эмне жакпадe3213251ы");
         System.out.println("эмне жакпады");
         System.out.println("Kutubek brench");
+        System.out.println("talgarbek yryskul uulu ");
     }
 }
