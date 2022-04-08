@@ -8,5 +8,6 @@ public class Main {
         System.out.println("эмне жакпады");
         System.out.println("Kutubek brench");
         System.out.println("talgarbek yryskul uulu ");
+        System.out.println("this is my method ");
     }
 }
